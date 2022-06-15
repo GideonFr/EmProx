@@ -1,5 +1,5 @@
 ﻿# EmProx
-Implementation of paper EmProx: Neural Network Performance Estimation For Neural Architecture Search
+Implementation of [paper](https://arxiv.org/abs/2206.05972) EmProx: Neural Network Performance Estimation For Neural Architecture Search
 
 Adaption of [NASLib](https://github.com/automl/NASLib).
 
